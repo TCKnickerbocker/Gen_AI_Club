@@ -9,7 +9,7 @@ Felicia Tao, Thomas Knickerbocker
 
 ## 📅 Contents (Chronological)
 
-### 1. 🧠 First Meeting
+### 1. 🧠 Meeting One
 **Topics:**  
 - Introduction to Generative AI  
 - Real-world use cases  
@@ -22,7 +22,7 @@ Felicia Tao, Thomas Knickerbocker
 
 ---
 
-### 2. 🛠️ First Workshop
+### 2. 🛠️ Workshop One
 **Topics:**  
 - Intro to LangChain  
 - Basics of PyTorch  
@@ -34,7 +34,7 @@ Felicia Tao, Thomas Knickerbocker
 
 ---
 
-### 3. 🔄 Second Workshop
+### 3. 🔄 Workshop Two
 **Topics:**  
 - Advanced LangChain  
 - Transformer architecture  
@@ -47,7 +47,7 @@ Felicia Tao, Thomas Knickerbocker
 
 ---
 
-### 4. 🤖 Job Application Project – Day 1
+### 4. 🤖 Job Application Project
 **Topics:**  
 - Automating job search using agents  
 - Chromium + Auv for browser control  
@@ -60,7 +60,7 @@ Felicia Tao, Thomas Knickerbocker
 
 ---
 
-### 5. 💬 Reddit AITA Classification Project
+### 5. 💬 Reddit AITA Project
 **Topics:**  
 - Kaggle dataset integration  
 - HuggingFace, Wandb  
@@ -73,7 +73,7 @@ Felicia Tao, Thomas Knickerbocker
 
 ---
 
-### 6. 🎤 Guest Lecture: Robert Jia Zheng
+### 6. 🎤 Guest Lecture - Robert Jia Zheng: Coffee Chats
 **Topics:**  
 - How to apply to jobs effectively  
 - Interviewing tips  
